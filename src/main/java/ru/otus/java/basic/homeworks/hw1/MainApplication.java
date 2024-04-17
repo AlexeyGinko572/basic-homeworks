@@ -36,7 +36,7 @@ public class MainApplication {
         }
     }
     public static void selectColor(){
-        int data = 121;
+        int data = 120;
         if(data <= 10){
             System.out.println("Красный");
         } else if (data <= 20 ){
